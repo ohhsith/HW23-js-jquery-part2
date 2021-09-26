@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.to-do-list {
+  text-align: left;
+}
+.to-do-list li {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 2px;
+}
+.to-do-list li span {
+  flex: 1;
+}
+.in-progress {
+  background-color: yellow;
+}
+.confirmed {
+  background-color: green;
+}
