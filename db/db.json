@@ -11,18 +11,18 @@
       "id": 2
     },
     {
-      "title": "sdf",
-      "completed": "true",
+      "title": "buy sugar",
+      "completed": false,
       "id": 3
     },
     {
-      "title": "cvx",
-      "completed": "true",
+      "title": "dfg",
+      "completed": true,
       "id": 4
     },
     {
-      "title": "dfg",
-      "completed": "true",
+      "title": "cbvcnbn",
+      "completed": true,
       "id": 5
     }
   ]
